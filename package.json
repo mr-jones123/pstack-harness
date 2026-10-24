@@ -1,6 +1,6 @@
 {
   "name": "pstack-harness",
-  "version": "0.15.30",
+  "version": "0.15.32",
   "description": "pstack from cursor/plugins, generated for OMP (oh-my-pi) and Pi.",
   "license": "MIT",
   "private": true,
